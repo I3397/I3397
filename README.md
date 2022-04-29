@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @I3397
 - 👀 I’m interested in SAP HCM
 - 🌱 I’m currently learning FAP UI5
-- 💞️ I’m looking to collaborate on SAP SBA
+- 💞️ I’m looking to collaborate on SAP HCM HR
 - 📫 How to reach me QQ:9120322
 
 <!---
